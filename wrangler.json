@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "steep-resonance-647d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "72ad776f-e7e8-4af5-91b6-d5c759133473",
+      "database_name": "morning-sun-72fc-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
